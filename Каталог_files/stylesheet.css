@@ -779,7 +779,7 @@ ul.opros-list-box {
 .brand-item h4:after {
   content: "";
   width: 29px;
-  background: url(/image/catalog/rectangle.png) no-repeat;
+  /* background: url(/image/catalog/rectangle.png) no-repeat; */
   height: 6px;
   margin-top: 20px;
   display: block;
@@ -919,7 +919,7 @@ footer p.private a {
 footer h4:after {
   content: "";
   width: 29px;
-  background: url(/image/catalog/rectangle.png) no-repeat;
+  /* background: url(/image/catalog/rectangle.png) no-repeat; */
   height: 6px;
   margin-top: 15px;
   margin-bottom: 15px;
@@ -1433,7 +1433,7 @@ footer h4:after {
 .product-grid .product-thumb h4:after {
   content: "";
   width: 29px;
-  background: url(/image/catalog/rectangle.png) no-repeat;
+  /* background: url(/image/catalog/rectangle.png) no-repeat; */
   height: 6px;
   margin-top: 7px;
   display: block;
@@ -2278,7 +2278,7 @@ img.mfp-img {
 .product-table .buy {
   background-color: #435267;
   padding-right: 0px;
-  background: url(/image/catalog/bin-white.png) no-repeat center #435267;
+  /* background: url(/image/catalog/bin-white.png) no-repeat center #435267; */
   height: 92%;
   position: absolute;
   right: 16px;
@@ -2742,13 +2742,13 @@ p.download_tags {
 }
 
 .btn-filter-clear:hover i {
-  background: url(/image/catalog/clear_filter2.png) no-repeat;
+  /* background: url(/image/catalog/clear_filter2.png) no-repeat; */
 }
 
 .btn-filter-clear i {
   float: right;
   color: #d2d2d2;
-  background: url(/image/catalog/clear_filter.png) no-repeat;
+  /* background: url(/image/catalog/clear_filter.png) no-repeat; */
   width: 15px;
   margin-top: 4px;
   height: 13px;
@@ -2985,7 +2985,7 @@ div#pumps a {
 .downloads-filter h5:after {
   content: "";
   width: 29px;
-  background: url(/image/catalog/rectangle.png) no-repeat;
+  /* background: url(/image/catalog/rectangle.png) no-repeat; */
   height: 6px;
   margin-top: 15px;
   margin-bottom: 15px;
@@ -3004,7 +3004,7 @@ div#pumps a {
 .news-block .col-md-3.item h5:after {
   content: "";
   width: 29px;
-  background: url(/image/catalog/rectangle.png) no-repeat;
+  /* background: url(/image/catalog/rectangle.png) no-repeat; */
   height: 6px;
   bottom: 0;
   position: absolute;
@@ -3052,7 +3052,7 @@ div#pumps a {
 .cart-recommended h3:after {
   content: "";
   width: 29px;
-  background: url(/image/catalog/rectangle.png) no-repeat;
+  /* background: url(/image/catalog/rectangle.png) no-repeat; */
   height: 6px;
   margin-top: 20px;
   display: block;
@@ -3414,7 +3414,7 @@ ul.city li a:hover {
 }
 
 .paperclip-img {
-  background: url(/image/catalog/paperclip.png) no-repeat;
+  /* background: url(/image/catalog/paperclip.png) no-repeat; */
   width: 22px;
   height: 20px;
   display: inline-block;
@@ -3422,7 +3422,7 @@ ul.city li a:hover {
 }
 
 .envelope-img {
-  background: url(/image/catalog/envelope.png) no-repeat;
+  /* background: url(/image/catalog/envelope.png) no-repeat; */
   width: 27px;
   height: 15px;
   display: inline-block;
@@ -3468,7 +3468,7 @@ header {
 }
 
 .search-block {
-  background: url(/image/catalog/loupe.png) no-repeat center;
+  /* background: url(/image/catalog/loupe.png) no-repeat center; */
   background-color: #eaeef1;
   height: 77px;
   display: block;
@@ -3575,21 +3575,21 @@ header {
 }
 
 .main-item {
-  background: url(/image/catalog/home.png) no-repeat;
+  /* background: url(/image/catalog/home.png) no-repeat; */
   padding-left: 25px;
   height: 15px;
   width: 15px;
 }
 
 .catalog-item {
-  background: url(/image/catalog/catalog-grey.png) no-repeat;
+  /* background: url(/image/catalog/catalog-grey.png) no-repeat; */
   padding-left: 30px;
   height: 15px;
   width: 15px;
 }
 
 .catalog-item:hover {
-  background: url(/image/catalog/catalog.png) no-repeat;
+  /* background: url(/image/catalog/catalog.png) no-repeat; */
 }
 
 #request_text {
@@ -3610,7 +3610,7 @@ header {
 }
 
 .request-item {
-  background: url(/image/catalog/request-grey.png) no-repeat;
+  /* background: url(/image/catalog/request-grey.png) no-repeat; */
   padding-left: 25px;
   height: 15px;
   width: 15px;
@@ -3622,7 +3622,7 @@ header {
 }
 
 .request-item:hover {
-  background: url(/image/catalog/request.png) no-repeat;
+  /* background: url(/image/catalog/request.png) no-repeat; */
 }
 
 @media (max-width: 1024px) {
@@ -3638,14 +3638,14 @@ header {
 }
 
 .contact-item {
-  background: url(/image/catalog/contacts-grey.png) no-repeat;
+  /* background: url(/image/catalog/contacts-grey.png) no-repeat; */
   padding-left: 25px;
   height: 15px;
   width: 15px;
 }
 
 .contact-item:hover {
-  background: url(/image/catalog/contacts.png) no-repeat;
+  /* background: url(/image/catalog/contacts.png) no-repeat; */
 }
 
 .header-phone {
@@ -3666,7 +3666,7 @@ header {
 }
 
 .bin {
-  background: url(/image/catalog/bin.png) no-repeat center;
+  /* background: url(/image/catalog/bin.png) no-repeat center; */
   background-color: #f46b25;
   height: 50px;
   width: 100%;
@@ -4393,7 +4393,7 @@ ul#left_column {
 
   .bin {
     height: 57px;
-    background: url(/image/catalog/bin-orange.png) no-repeat center;
+    /* background: url(/image/catalog/bin-orange.png) no-repeat center; */
     background-color: transparent;
   }
 
@@ -4971,15 +4971,15 @@ label#q-notice {
 }
 
 #q-user {
-  background: url(/image/catalog/quest-user.png) no-repeat;
+  /* background: url(/image/catalog/quest-user.png) no-repeat; */
 }
 
 #q-phone {
-  background: url(/image/catalog/quest-phone.png) no-repeat;
+  /* background: url(/image/catalog/quest-phone.png) no-repeat; */
 }
 
 #q-question {
-  background: url(/image/catalog/question.png) no-repeat;
+  /* background: url(/image/catalog/question.png) no-repeat; */
 }
 
 .quest-send-block p a {
@@ -5185,7 +5185,7 @@ select#direction {
 .tech-checkbox-question .check,
 .request-checkbox-question .check,
 .request-checkbox .check {
-  background: url("/image/catalog/check.png") #ddd no-repeat center;
+  /* background: url("/image/catalog/check.png") #ddd no-repeat center; */
 }
 
 .tech-checkbox-question div.my-field:hover,
@@ -5339,7 +5339,7 @@ select#direction {
 .bin-btn-remove {
   position: absolute;
   top: 15px;
-  background: url(/image/catalog/bin-cart-remove.png) no-repeat;
+  /* background: url(/image/catalog/bin-cart-remove.png) no-repeat; */
   width: 22px;
   height: 22px;
   border: 0px;
@@ -5347,7 +5347,7 @@ select#direction {
 }
 
 .bin-btn-remove:hover {
-  background: url(/image/catalog/bin-cart-remove-hover.png) no-repeat;
+  /* background: url(/image/catalog/bin-cart-remove-hover.png) no-repeat; */
 }
 
 #bin-main-form {
@@ -5492,11 +5492,11 @@ select#direction {
   border-radius: 20px;
   outline: none;
   font-size: 15px;
-  background: url(/image/catalog/clear-bin.png) no-repeat 5px;
+  /* background: url(/image/catalog/clear-bin.png) no-repeat 5px; */
 }
 
 #bin-main-form .clear-bin:hover {
-  background: url(/image/catalog/clear-bin-hover.png) no-repeat 5px;
+  /* background: url(/image/catalog/clear-bin-hover.png) no-repeat 5px; */
   color: #017b8a;
   border-color: #017b8a;
 }
@@ -5793,7 +5793,7 @@ select#direction {
   content: "";
   display: block;
   float: right;
-  background: url("/image/catalog/arch_news1.png") no-repeat;
+  /* background: url("/image/catalog/arch_news1.png") no-repeat; */
   background-size: 20px;
   height: 20px;
   width: 20px;
@@ -5801,7 +5801,7 @@ select#direction {
 }
 
 .news-block #news-tabs li a:hover h2:after {
-  background: url("/image/catalog/arch_news3.png") no-repeat;
+  /* background: url("/image/catalog/arch_news3.png") no-repeat; */
   background-size: 20px;
 }
 
@@ -6127,7 +6127,7 @@ a#more-news:hover {
 }
 
 #history-graph .wave {
-  background: url(/image/catalog/line-graph.png) 95px 347px;
+  /* background: url(/image/catalog/line-graph.png) 95px 347px; */
   background-repeat: repeat-y;
   width: 3600px;
   height: 320px;
@@ -6264,13 +6264,13 @@ a#more-news:hover {
 }
 
 #timeline-block .noactive-arrow-right {
-  background: url(/image/catalog/right_arrow2.png) #fff !important;
+  /* background: url(/image/catalog/right_arrow2.png) #fff !important; */
   background-size: cover !important;
   animation: none !important;
 }
 
 #timeline-block .noactive-arrow-left {
-  background: url(/image/catalog/left_arrow2.png) #fff !important;
+  /* background: url(/image/catalog/left_arrow2.png) #fff !important; */
   background-size: cover !important;
   animation: none !important;
 }
@@ -6291,13 +6291,13 @@ a#more-news:hover {
 }
 
 #timeline-block .arrow-left {
-  background: url("/image/catalog/left_arrow.png") no-repeat #fff;
+  /* background: url("/image/catalog/left_arrow.png") no-repeat #fff; */
   background-size: cover;
 }
 
 #timeline-block .arrow-right {
   right: 0px;
-  background: url("/image/catalog/right_arrow.png") no-repeat #fff;
+  /* background: url("/image/catalog/right_arrow.png") no-repeat #fff; */
   background-size: cover;
 }
 
@@ -6439,7 +6439,7 @@ a#more-news:hover {
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  background: url(/image/catalog/krug.png) no-repeat center;
+  /* background: url(/image/catalog/krug.png) no-repeat center; */
   position: absolute;
   background-color: #fff;
   top: -12px;
@@ -6714,7 +6714,7 @@ html[data-useragent*='OPR'] .history-company.container-fluid .after{
 .ymaps_desc:after {
   content: "";
   width: 29px;
-  background: url(/image/catalog/rectangle.png) no-repeat;
+  /* background: url(/image/catalog/rectangle.png) no-repeat; */
   height: 6px;
   margin-top: 12px;
   margin-bottom: 10px;
@@ -7005,7 +7005,7 @@ span.showOnTheMap:hover {
 /*------------------------------help---------------------------*/
 
 .help .support-info {
-  background: url("/image/catalog/support-img-box.png") no-repeat right;
+  /* background: url("/image/catalog/support-img-box.png") no-repeat right; */
   height: 280px;
   border: solid 1px #017987;
   border-right: none;
@@ -7407,7 +7407,7 @@ table.product-table td {
   width: 8px;
   height: 14px;
   margin-top: -7px;
-  background: url(../../../../../image/catalog/iblock/arr_left.png) no-repeat
+  /* background: url(../../../../../image/catalog/iblock/arr_left.png) no-repeat */
     center;
 }
 /*------------------------------------------------*/
