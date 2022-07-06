@@ -6407,12 +6407,12 @@ button.close {
 .carousel-inner > .item > img {
   line-height: 1;
 }
-@media all, null {
+/* @media all, null {
   .carousel-inner > .item {
     transition: transform 0.6s ease-in-out;
     backface-visibility: hidden;
     perspective: 1000px;
-  }
+  } */
   .carousel-inner > .item.active.right,
   .carousel-inner > .item.next {
     left: 0;
