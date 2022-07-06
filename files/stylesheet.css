@@ -2607,7 +2607,7 @@ p.example {
 .cart-bottom .question-form-box {
   margin-top: 0;
 }
-#question-form input:-webkit-autofill,
+/* #question-form input:-webkit-autofill,
 #question-form input:-webkit-autofill:hover,
 #question-form
   input:-webkit-autofill:focus
@@ -2622,7 +2622,7 @@ p.example {
 #question-form select:-webkit-autofill:focus {
   font-size: 14px;
   transition: background-color 5000s 0s ease-in-out;
-}
+} */
 #question-form .help-block ul li {
   color: #fff;
   background-color: rgb(244, 67, 54, 0.6313725490196078);
