@@ -6412,7 +6412,7 @@ button.close {
     transition: transform 0.6s ease-in-out;
     backface-visibility: hidden;
     perspective: 1000px;
-  } */
+  } 
   .carousel-inner > .item.active.right,
   .carousel-inner > .item.next {
     left: 0;
@@ -6429,7 +6429,8 @@ button.close {
     left: 0;
     transform: translate3d(0, 0, 0);
   }
-}
+  
+}*/
 .carousel-inner > .active,
 .carousel-inner > .next,
 .carousel-inner > .prev {
