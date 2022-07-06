@@ -3981,15 +3981,15 @@ label#q-notice {
 .question-form-box input::-webkit-input-placeholder {
   color: #fff;
 }
-.question-form-box input::-moz-placeholder {
+/* .question-form-box input::-moz-placeholder {
   color: #fff;
-}
+} */
 .question-form-box input:-ms-input-placeholder {
   color: #fff;
 }
-.question-form-box input:-moz-placeholder {
+/* .question-form-box input:-moz-placeholder {
   color: #fff;
-}
+} */
 .question-form-box button {
   height: 60px;
   background-color: #fff;
@@ -5893,10 +5893,10 @@ table.product-table td {
 .swiper-container-fade .swiper-slide .swiper-slide {
   pointer-events: none;
 }
-.swiper-container-fade .swiper-slide-active,
+/* .swiper-container-fade .swiper-slide-active,
 .swiper-container-fade .swiper-slide-active .swiper-slide-active {
   pointer-events: auto;
-}
+} */
 .swiper-container-autoheight,
 .swiper-container-autoheight .swiper-slide {
   height: auto;
