@@ -233,7 +233,7 @@ div.required .control-label:before {
   height: 30px;
 }
 #top .container {
-  //padding: 0px;
+  /* padding: 0px; */
 }
 #top #form-currency .currency-select,
 #top #form-language .language-select {
@@ -257,7 +257,7 @@ div.required .control-label:before {
 
 #top .btn-link:hover,
 #top-links a:hover {
-  //color: #f46b25;
+  /* color: #f46b25; */
 }
 #top-links .dropdown-menu a {
   text-shadow: none;
@@ -270,7 +270,7 @@ div.required .control-label:before {
   line-height: 14px;
 }
 #top-links {
-  //padding-top: 6px;
+  /* padding-top: 6px; */
 }
 #top-links a + a {
   margin-left: 15px;
@@ -362,7 +362,7 @@ div.required .control-label:before {
   }
 
   .img-mobile-thumbnail {
-    //display: none;
+    /* display: none; */
     padding-top: 0px !important;
     width: 25% !important;
   }
@@ -866,7 +866,7 @@ footer h4 {
 }
 
 .footer-social a {
-  //padding: 15px;
+  /* padding: 15px; */
 }
 
 .footer-social a > i {
@@ -1296,7 +1296,7 @@ footer h4:after {
 .product-list .product-thumb,
 .product-grid .product-thumb {
   border: 1px solid #d2d2d2;
-  //overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .product-list .thumb-list {
@@ -5242,7 +5242,7 @@ select#direction {
   background-image: none;
   border: 1px solid #ccc;
   margin-bottom: 20px;
-  //float: left;
+  /* float: left; */
   overflow: hidden;
 }
 
@@ -6344,7 +6344,7 @@ a#more-news:hover {
   }
 
   #timeline-block .li h4 {
-    //font-size: 14px;
+    /* font-size: 14px; */
     padding: 20px 10px 0px !important;
   }
 
@@ -6427,7 +6427,7 @@ a#more-news:hover {
   padding: 0px 40px;
   display: block;
   justify-content: center;
-  //border-top: 2px solid #f46b25;
+  /*border-top: 2px solid #f46b25;*/
   position: relative;
   transition: all 200ms ease-in;
 }
@@ -6833,7 +6833,7 @@ html[data-useragent*='OPR'] .history-company.container-fluid .after{
   }
 
   .fil-list {
-    //height:auto !important;
+    /* height:auto !important; */
     margin-bottom: 55px;
   }
 }
@@ -8610,7 +8610,7 @@ p.tmpl_hh_title {
 .bloko-button_secondary {
   margin-bottom: 30px;
   color: #fff;
-  //border-color: #8cb900;
+  /* border-color: #8cb900; */
   background-color: #005f71;
   outline: none;
 }
