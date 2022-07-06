@@ -2210,10 +2210,10 @@ p.download_tags {
 .filter-data .form-control {
   padding: 7px;
 }
-.filter-data .form-control::-webkit-outer-spin-button,
+/* .filter-data .form-control::-webkit-outer-spin-button,
 .filter-data .form-control::-webkit-inner-spin-button {
   margin: 0;
-}
+} */
 .filter-head-attr:hover {
   cursor: pointer;
 }
