@@ -3978,15 +3978,15 @@ label#q-notice {
 .quest-send-block p a {
   text-decoration: underline;
 }
-.question-form-box input::-webkit-input-placeholder {
+/* .question-form-box input::-webkit-input-placeholder {
   color: #fff;
-}
+} */
 /* .question-form-box input::-moz-placeholder {
   color: #fff;
 } */
-.question-form-box input:-ms-input-placeholder {
+/* .question-form-box input:-ms-input-placeholder {
   color: #fff;
-}
+} */
 /* .question-form-box input:-moz-placeholder {
   color: #fff;
 } */
@@ -5131,10 +5131,10 @@ a#more-news:hover {
   z-index: 99;
   margin-bottom: -20px;
 }
-.dragscroll::-webkit-scrollbar {
+/* .dragscroll::-webkit-scrollbar {
   width: 0;
   height: 0;
-}
+} */
 .filial-block {
   position: absolute;
   top: 100px;
