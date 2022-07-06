@@ -955,7 +955,7 @@ footer h4:after {
 .btn-link,
 .btn-link:active,
 .btn-link[disabled] {
-  background-color: rgb(0, 0, 0, 0);
+  background-color: rgb(0, 0, 0, 1);
   background-image: none;
   box-shadow: none;
 }
