@@ -1845,10 +1845,10 @@ img.mfp-img {
 .header-product-table.row [class*="col-"] {
   vertical-align: middle;
 }
-.header-product-table.row [class*="col-"],
+/* .header-product-table.row [class*="col-"],
 .product-table > .product-thumb > .row > [class*="col-"] {
   word-break: break-word;
-}
+} */
 .header-product-table {
   min-height: 50px;
 }
